@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment/secrets
+.env
+
+# Power BI temporary/backup files
+*.pbit
+*.tmp
